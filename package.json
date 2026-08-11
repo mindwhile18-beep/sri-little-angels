@@ -1,0 +1,17 @@
+{
+  "name": "sri-little-angels-school-website",
+  "version": "1.0.0",
+  "description": "Website for Sri Little Angels High School",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "school",
+    "website",
+    "little-angels"
+  ],
+  "author": "Dhanvika Educational Society",
+  "license": "ISC"
+}
