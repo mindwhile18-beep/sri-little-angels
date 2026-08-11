@@ -7,7 +7,7 @@ A modern, responsive website developed for **Sri Little Angels High School** (Up
 - Google Fonts & modern icons (FontAwesome)
 - About Us, Facilities, Academics, Gallery, Admissions, and Contact sections
 - Custom Admissions Inquiry submission form
-- Header and footer menus containing a **Login** button pointing directly to the school management system portal: `https://srilittleangelsemhs.com/`
+- Header and footer menus containing a **Login** button pointing directly to the school management system portal: `https://littleangels.ourschoolerp.com/`
 
 ## Local Development
 1. Install dependencies:
